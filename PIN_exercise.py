@@ -12,3 +12,5 @@ while user_number_of_attempts < max_number_of_attempts:
         print("Incorrect! You have used", user_number_of_attempts, 'out of', max_number_of_attempts, 'attempts.')
         if user_number_of_attempts == max_number_of_attempts:
             print("You have no more attempts left. You are blocked from your account.")
+
+#Jodie has added a comment for git
